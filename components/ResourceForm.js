@@ -38,7 +38,7 @@ const ResourceForm = ({ onFormSubmit, initialData }) => {
                             name="title"
                             className="input"
                             type="text"
-                            placeholder="Learn Next JS and Sanity IO" />
+                            placeholder="Learn Next JS" />
                     </div>
                 </div>
                 <div className="field">
@@ -61,7 +61,7 @@ const ResourceForm = ({ onFormSubmit, initialData }) => {
                             name="link"
                             className="input"
                             type="text"
-                            placeholder="https://academy.eincode.com" />
+                            placeholder="https://google.com" />
                     </div>
                 </div>
                 <div className="field">
